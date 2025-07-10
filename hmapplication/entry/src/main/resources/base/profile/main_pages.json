@@ -1,0 +1,12 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/index1",
+    "pages/MainPage",
+    "pages/MapNavigation",
+    "pages/SamplingControl",
+    "pages/Settings",
+    "pages/AlertCenter",
+    "pages/WaterQualityDashboard"
+  ]
+}
